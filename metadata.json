@@ -1,0 +1,5 @@
+{
+  "name": "Merlin Fetch",
+  "description": "A minimalist, one-button interactive experience where clicking a button triggers a video of a dog playing fetch.",
+  "requestFramePermissions": []
+}
